@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 A passionate **Full Stack Developer** with a focus on building scalable and high-performance applications. I love exploring new technologies, working on open-source projects, and collaborating with others in the tech community.
 
 🔭 **Current Focus**:  
