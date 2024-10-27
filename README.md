@@ -1,18 +1,14 @@
-<h1 align="center">Karim Bouaouina 👋</h1>
+<h1 align="center">Karim Bouaouina</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Open Source Contributor</h3>
 <p align="center">
-  <a href="https://karimbouaouina.com" target="_blank">
+  <a href="https://karim-bouaouina.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-32CD32?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://www.linkedin.com/in/karimbouaouina/" target="_blank">
+  <a href="https://www.linkedin.com/in/karim-bouaouina/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
----
 
 ### 🌟 About Me
 
