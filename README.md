@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-### 🌟 About Me
+🌟 About Me:
 
 I'm Karim, a passionate **Full Stack Developer** with a focus on building scalable and high-performance applications. I love exploring new technologies, working on open-source projects, and collaborating with others in the tech community.
 
@@ -21,7 +21,7 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
 - Software Architecture  
 - Cloud computing (AWS, GCP)  
 
-### 🛠️ Skills
+🛠️ Skills:
 
 <p align="center">
   <!-- Python -->
@@ -54,14 +54,14 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
 </p>
 
-### 📊 GitHub Stats
+📊 GitHub Stats:
 
 <p align="center">
   <img height="200" src="https://github-readme-stats-pi-seven-81.vercel.app/api?username=karimbouaouina&show_icons=true&theme=github_dark&count_private=true&hide=stars">
   <img height="200" src="https://github-readme-stats-pi-seven-81.vercel.app/api/top-langs/?username=karimbouaouina&layout=compact&langs_count=8&theme=github_dark">
 </p>
 
-### ✨ Featured Projects
+✨ Featured Projects:
 
 Here are some of my favorite projects that I have worked on:
 
@@ -70,7 +70,7 @@ Here are some of my favorite projects that I have worked on:
 - **[Project 3](https://github.com/karimbouaouina/kiki_streetwear_project)**: Kiki Streetwear, a personal brand idea for clothing 
 ...etc, feel free to explore my repositories for more cool stuff! 🚀
 
-### 💬 Get in Touch
+💬 Get in Touch:
 
 I'm always open to interesting conversations, collaboration, or new opportunities! You can reach me via:
 
