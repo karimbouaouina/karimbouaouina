@@ -54,8 +54,6 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -63,25 +61,18 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
   <img height="200" src="https://github-readme-stats-pi-seven-81.vercel.app/api/top-langs/?username=karimbouaouina&layout=compact&langs_count=8&theme=github_dark">
 </p>
 
-
----
-
 ### ✨ Featured Projects
 
 Here are some of my favorite projects that I have worked on:
 
-- **[Project 1](https://github.com/karimbouaouina/project1)**: A full-stack web application using React, Node.js, and MongoDB  
-- **[Project 2](https://github.com/karimbouaouina/project2)**: An open-source tool for automating cloud infrastructure using Terraform and AWS  
-- **[Project 3](https://github.com/karimbouaouina/project3)**: A Python-based machine learning project that predicts house prices using linear regression  
-
-Feel free to explore my repositories for more cool stuff! 🚀
-
----
+- **[Project 1](https://github.com/karimbouaouina/kaa-tunisian-trading)**: Kaa is a comprehensive e-commerce platform for Tunisian products.  
+- **[Project 2](https://github.com/karimbouaouina/support2go-frontend)**: Support2Go is a cutting-edge client support ticketing platform built with the robust MERN stack, designed to streamline the way you get help with real-life issues.
+- **[Project 3](https://github.com/karimbouaouina/kiki_streetwear_project)**: Kiki Streetwear, a personal brand idea for clothing 
+...etc, feel free to explore my repositories for more cool stuff! 🚀
 
 ### 💬 Get in Touch
 
 I'm always open to interesting conversations, collaboration, or new opportunities! You can reach me via:
 
-- [Email](mailto:karim@example.com)
-- [LinkedIn](https://www.linkedin.com/in/karimbouaouina/)
-- [Twitter](https://twitter.com/yourhandle)
+- [Email](mailto:karim.bouaouina.2001@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/karim-bouaouina/)
