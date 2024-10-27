@@ -1,13 +1,5 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://yourimageurl.com" alt="Banner" width="100%" height="auto">
-</p>
-
-<!-- Name and Title -->
-<h1 align="center">Hi there! I'm Karim Bouaouina 👋</h1>
+<h1 align="center">Karim Bouaouina 👋</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Open Source Contributor</h3>
-
-<!-- Social Media Links -->
 <p align="center">
   <a href="https://karimbouaouina.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-32CD32?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
