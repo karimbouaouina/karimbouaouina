@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-
 ### 🌟 About Me
 
 I'm Karim, a passionate **Full Stack Developer** with a focus on building scalable and high-performance applications. I love exploring new technologies, working on open-source projects, and collaborating with others in the tech community.
@@ -22,8 +20,6 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
 - Full-Stack Development (React, Node.js, Express, MongoDB)  
 - Software Architecture  
 - Cloud computing (AWS, GCP)  
-
----
 
 ### 🛠️ Skills
 
