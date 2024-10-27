@@ -12,7 +12,7 @@
   </a>
 </p>
 
-A passionate **Full Stack Developer** with a focus on building scalable and high-performance applications. I love exploring new technologies, working on open-source projects, and collaborating with others in the tech community.
+I'm a hands-on **Full Stack Developer** who loves turning ideas into real-world applications, whether it's diving into new tech, contributing to open-source, or collaborating on projects that push boundaries, I'm always looking to learn and create something meaningful. Let’s build something cool together!
 
 🔭 **Current Focus**:  
 - Building modern, responsive web applications  
