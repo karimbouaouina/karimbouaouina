@@ -63,9 +63,10 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=karimbouaouina&show_icons=true&theme=github_dark&count_private=true&hide=stars">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimbouaouina&layout=compact&langs_count=8&theme=github_dark">
+  <img height="200" src="https://github-readme-stats-pi-seven-81.vercel.app/api?username=karimbouaouina&show_icons=true&theme=github_dark&count_private=true&hide=stars">
+  <img height="200" src="https://github-readme-stats-pi-seven-81.vercel.app/api/top-langs/?username=karimbouaouina&layout=compact&langs_count=8&theme=github_dark">
 </p>
+
 
 ---
 
