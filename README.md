@@ -28,14 +28,6 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourimagepath/skills-image.png" alt="Skills" width="auto" height="80px">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <!-- Java -->
@@ -64,6 +56,15 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
   <!-- Kafka -->
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=karimbouaouina&show_icons=true&theme=github_dark&count_private=true&hide=stars">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimbouaouina&layout=compact&langs_count=8&theme=github_dark">
 </p>
 
 ---
