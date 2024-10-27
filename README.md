@@ -1,5 +1,5 @@
 <h1 align="center">Karim Bouaouina</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">Software Engineer Student | Full Stack Developer | Open Source Contributor</h3>
 <p align="center">
   <a href="https://karim-bouaouina.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-32CD32?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
@@ -17,7 +17,6 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
 🔭 **Current Focus**:  
 - Building modern, responsive web applications  
 - Contributing to open-source projects  
-- Exploring **AI** and **machine learning** for real-world applications  
 
 💬 **Let's talk about**:  
 - Full-Stack Development (React, Node.js, Express, MongoDB)  
@@ -37,8 +36,34 @@ I'm Karim, a passionate **Full Stack Developer** with a focus on building scalab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=karimbouaouina&show_icons=true&theme=github_dark&count_private=true&hide=stars">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimbouaouina&layout=compact&langs_count=8&theme=github_dark">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <!-- Next.js -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <!-- Express.js -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <!-- Stripe -->
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <!-- Laravel -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <!-- Symfony -->
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+  <!-- Kafka -->
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
 </p>
 
 ---
