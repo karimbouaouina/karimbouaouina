@@ -61,7 +61,8 @@ Here are some of my favorite projects that I have worked on:
 - **[Project 1](https://github.com/karimbouaouina/kaa-tunisian-trading)**: Kaa is a comprehensive e-commerce platform for Tunisian products.  
 - **[Project 2](https://github.com/karimbouaouina/support2go-frontend)**: Support2Go is a cutting-edge client support ticketing platform built with the robust MERN stack, designed to streamline the way you get help with real-life issues.
 - **[Project 3](https://github.com/karimbouaouina/kiki_streetwear_project)**: Kiki Streetwear, a personal brand idea for clothing 
-...etc, feel free to explore my repositories for more cool stuff! 🚀
+
+Feel free to explore my repositories for more cool stuff! 🚀
 
 💬 Get in Touch:
 
