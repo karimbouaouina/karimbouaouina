@@ -58,11 +58,11 @@ I'm always eager to explore innovative technologies and deliver impactful digita
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
   <!-- Kafka -->
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" alt="OpenAPI Gen">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000" alt="Swagger">
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI Gen">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=insomnia&logoColor=000" alt="Swagger">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   
   
   
@@ -73,20 +73,28 @@ I'm always eager to explore innovative technologies and deliver impactful digita
 
 ### 💼 Professional Experience
 
-**Data Engineer Intern** – Cognivance (Le Beau Geste)  
+#### **Data Engineer Intern — Cognivance (Le Beau Geste)**  
 📍 Nancy, France | *April 2025 – October 2025*  
-- Built a **web content extraction and indexing system** to feed an AI model with structured data.  
-- Designed a **FastAPI + Angular** architecture integrating **LLMs** and **ChromaDB**.  
-- Deployed and containerized applications with **Docker Compose** on **Azure App Service**.
 
-**Full-Stack Developer Intern** – Kaa International Trading  
+- Developed a web content extraction and indexing system to structure data for the **Cogeo model**.  
+- Designed a **Full Stack architecture** using **FastAPI (backend)** and **Angular (frontend)** with an integrated **embeddings engine** and **ChromaDB vector database**.  
+- Built an **automated web scraping pipeline** (files, PDFs, websites) featuring progress tracking and real-time preview.  
+- Integrated an **LLM** with backend APIs and databases for optimized result generation and analysis.  
+- Deployed and tested services on **Microsoft Azure App Service**, utilizing **Docker Compose** for both cloud and on-premise configurations.
+
+#### **Full-Stack Developer Intern — Kaa International Trading**  
 📍 Sousse, Tunisia | *June 2024 – September 2024*  
-- Developed a full **e-commerce platform** showcasing Tunisian heritage.  
-- Integrated responsive UI using **MERN** + **Tailwind CSS**.
 
-**React Front-End Developer Intern** – Satoripop  
+- Developed an **eCommerce platform** promoting Tunisian products and cultural heritage.  
+- Built the application using the **MERN stack**, styled with **Tailwind CSS**, and optimized for performance and scalability.  
+- Designed a **responsive, mobile-friendly interface** ensuring smooth UX across devices.  
+- Independently managed the entire project lifecycle — from planning and development to deployment — to gain hands-on full-stack experience.
+
+#### **React Front-End Developer Intern — Satoripop**  
 📍 Sousse, Tunisia | *July 2023 – August 2023*  
-- Strengthened React skills by building multiple responsive, interactive projects.
+
+- Gained hands-on experience with **React**, enhancing front-end development skills.  
+- Developed multiple projects, including a **PokeApp** and several portfolio websites.
 
 ---
 
