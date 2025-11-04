@@ -1,5 +1,5 @@
 <h1 align="center">Karim Bouaouina</h1>
-<h3 align="center">Software Engineer Student | Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">AI & Data Engineering | Junior Full-Stack AI Engineer (MERN / MEAN) | AI / ML Enthusiast</h3>
 <p align="center">
   <a href="https://karim-bouaouina.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-32CD32?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
@@ -12,16 +12,20 @@
   </a>
 </p>
 
-I'm a hands-on **Full Stack Developer** who loves turning ideas into real-world applications, whether it's diving into new tech, contributing to open-source, or collaborating on projects that push boundaries, I'm always looking to learn and create something meaningful. Let’s build something cool together!
+I'm **Karim Bouaouina**, a passionate **AI and Data Engineering enthusiast** with a strong foundation in **Full-Stack Development (MERN / MEAN)**. I enjoy designing scalable web applications and building **data-driven solutions** that merge **machine learning** with modern software engineering.
+
+I'm always eager to explore innovative technologies and deliver impactful digital experiences. Let’s build something cool together!
 
 🔭 **Current Focus**:  
-- Building modern, responsive web applications  
-- Contributing to open-source projects  
+- AI & Data Engineering (NLP, Data Pipelines, LLM Integration)  
+- Building scalable, responsive web applications (MEAN/MERN Stack)
+- Cloud deployment & DevOps (Docker, Azure, CI/CD)
 
 💬 **Let's talk about**:  
 - Full-Stack Development (React, Node.js, Express, MongoDB)  
-- Software Architecture  
-- Cloud computing (AWS, GCP)  
+- Machine Learning & NLP Applications  
+- Data Engineering, ETL Pipelines, and Business Intelligence  
+- Cloud Computing (Microsoft Azure, AWS)
 
 🛠️ Skills:
 
@@ -54,9 +58,46 @@ I'm a hands-on **Full Stack Developer** who loves turning ideas into real-world 
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
   <!-- Kafka -->
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" alt="OpenAPI Gen">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000" alt="Swagger">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular">
+  
+  
+  
+  
 </p>
 
-✨ Featured Projects:
+---
+
+### 💼 Professional Experience
+
+**Data Engineer Intern** – Cognivance (Le Beau Geste)  
+📍 Nancy, France | *April 2025 – October 2025*  
+- Built a **web content extraction and indexing system** to feed an AI model with structured data.  
+- Designed a **FastAPI + Angular** architecture integrating **LLMs** and **ChromaDB**.  
+- Deployed and containerized applications with **Docker Compose** on **Azure App Service**.
+
+**Full-Stack Developer Intern** – Kaa International Trading  
+📍 Sousse, Tunisia | *June 2024 – September 2024*  
+- Developed a full **e-commerce platform** showcasing Tunisian heritage.  
+- Integrated responsive UI using **MERN** + **Tailwind CSS**.
+
+**React Front-End Developer Intern** – Satoripop  
+📍 Sousse, Tunisia | *July 2023 – August 2023*  
+- Strengthened React skills by building multiple responsive, interactive projects.
+
+---
+
+### 🌍 Languages
+- **Arabic:** Native  
+- **English:** C1 (Advanced)  
+- **French:** B2 (Intermediate)
+
+---
+
+✨ Featured Academic/Personal Projects:
 
 Here are some of my favorite projects that I have worked on:
 
