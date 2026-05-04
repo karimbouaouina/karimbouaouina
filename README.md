@@ -17,6 +17,7 @@ I'm **Karim Bouaouina**, a passionate **AI and Data Engineering enthusiast** wit
 I'm always eager to explore innovative technologies and deliver impactful digital experiences. Let’s build something cool together!
 
 🔭 **Current Focus**:  
+- AI Agents & Intelligent Automation (AI Agent Platforms, LLM Integration)
 - AI & Data Engineering (NLP, Data Pipelines, LLM Integration)  
 - Building scalable, responsive web applications (MEAN/MERN Stack)
 - Cloud deployment & DevOps (Docker, Azure, CI/CD)
@@ -42,12 +43,16 @@ I'm always eager to explore innovative technologies and deliver impactful digita
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <!-- Express.js -->
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <!-- Stripe -->
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
   <!-- Tailwind CSS -->
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <!-- Firebase -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <!-- Git -->
@@ -72,6 +77,14 @@ I'm always eager to explore innovative technologies and deliver impactful digita
 ---
 
 ### 💼 Professional Experience
+
+#### **Full-Stack Engineer — Teleon (AI Agent Platform)** 
+📍 Tunisia | February 2026 – Present · Remote
+
+- Developing and scaling web applications leveraging modern automation techniques, AI agents, and intelligent tooling.
+- Contributing to the deployment infrastructure of intelligent agents on a production-ready platform with auto-scaling runtime and enterprise-grade security.
+- Designing and integrating robust deployment pipelines for large-scale AI agent systems.
+- Actively involved in building the built-in memory and infrastructure components of the Teleon platform.
 
 #### **Data Engineer Intern — Cognivance (Le Beau Geste)**  
 📍 Nancy, France | *April 2025 – October 2025*  
